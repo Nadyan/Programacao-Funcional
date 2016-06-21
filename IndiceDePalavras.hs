@@ -1,3 +1,9 @@
+{-
+	Indice de palavras em Haskell
+	Nadyan Suriel Pscheidt
+-}
+
+
 import Data.List
 import Data.Char
 
